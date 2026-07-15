@@ -18,9 +18,10 @@ If you use this code in your research, please cite our paper:
 > H. Mishra *et al.*, "Quantum Computing Inspired Approach for Self-Avoiding Walk (SAWs): 2D lattice and 3D lattice SAWs for single chain enumeration" (2026).
 
 ## Requirements
-- Python 3.10+
+- Python 3.12+
 - Qiskit 2.0+
 - Qiskit Aer 0.16+
+- QuTiP for rendering the representation of the Bloch Sphere
 - NumPy, Matplotlib (for visualization)
 
 ## Installation
