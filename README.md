@@ -1,6 +1,6 @@
 # Quantum Computing-Inspired SAW Enumeration (2D & 3D Lattices)
 
-This repository contains the complete implementation of a **quantum-inspired classical algorithm** for the exact enumeration of self-avoiding walks (SAWs) on 2D square and 3D cubic lattices.
+This repository contains the complete implementation of a **quantum computing-inspired algorithm** for the exact enumeration of self-avoiding walks (SAWs) on 2D square and 3D cubic lattices.
 
 The algorithm is based on **Quantum Amplitude Estimation (QAE)** combined with Grover’s search and Inverse Quantum Fourier Transform, but it is **optimized to run on classical hardware** using the Qiskit Aer simulator. It employs hybrid simulation techniques (qubit reinitialization, tensor-network-style compression, and Zero-Noise Extrapolation) to make large-scale exact enumeration feasible.
 
