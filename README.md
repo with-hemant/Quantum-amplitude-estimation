@@ -1,4 +1,4 @@
-# Quantum-Inspired SAW Enumeration (2D & 3D Lattices)
+# Quantum Computing-Inspired SAW Enumeration (2D & 3D Lattices)
 
 This repository contains the complete implementation of a **quantum-inspired classical algorithm** for the exact enumeration of self-avoiding walks (SAWs) on 2D square and 3D cubic lattices.
 
